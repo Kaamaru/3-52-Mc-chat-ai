@@ -1,2 +1,4 @@
 # 3-52-Mc-chat-ai
-robbed
+get robbed
+
+###Do your things in .src/settings.rs
